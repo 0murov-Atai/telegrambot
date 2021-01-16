@@ -1,0 +1,6 @@
+#unwishible dir and file
+
+__pycache__/
+images/
+.vscode/
+
